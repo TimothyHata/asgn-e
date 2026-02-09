@@ -1,6 +1,6 @@
 @import url("https://p.typekit.net/p.css?s=1&k=tij5ssf&ht=tk&f=28483.28484.28485.28486.28563.28564.28565.28566.28567.28568.28478.28479.28480.28481.28482&a=136837820&app=typekit&e=css");
 body {
-	background-color: #eb632a;
+	background-color: #af4a1f;
 	color: #f7f3ca;
 	font-family: alda;
 	font-size: 120%;
@@ -35,16 +35,14 @@ section {
 }
 h1 {
 	text-align: center;
-	font-family: mrs-eaves;
+	font-family: mrs-eaves-roman-small-caps;
 	font-size: 220%;
+	font-weight: normal;
 	margin: 0px;
 	margin-top: 20px;
 }
 p {
 	line-height: 140%;
-}
-a {
-	color: #f7f3ca;
 }
 figure {
 	margin-left: 0px;
@@ -134,33 +132,6 @@ footer {
 		aspect-ratio: 4 / 3;
 		object-position: 50% 87.5%;
 	}
-	.topnav a {
-		font-size: 140%;
-	}
-}
-
-@font-face {
-font-family:"mrs-eaves";
-src:url("https://use.typekit.net/af/00f106/00000000000000007735b2fd/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/00f106/00000000000000007735b2fd/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/00f106/00000000000000007735b2fd/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
-font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
-}
-
-@font-face {
-font-family:"mrs-eaves";
-src:url("https://use.typekit.net/af/633665/00000000000000007735b2ff/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/633665/00000000000000007735b2ff/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/633665/00000000000000007735b2ff/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
-}
-
-@font-face {
-font-family:"mrs-eaves";
-src:url("https://use.typekit.net/af/af2452/00000000000000007735b300/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/af2452/00000000000000007735b300/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/af2452/00000000000000007735b300/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
-}
-
-@font-face {
-font-family:"mrs-eaves";
-src:url("https://use.typekit.net/af/2622bf/00000000000000007735b301/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/2622bf/00000000000000007735b301/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/2622bf/00000000000000007735b301/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
-font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
 }
 
 @font-face {
@@ -205,34 +176,5 @@ src:url("https://use.typekit.net/af/10c018/00000000000000007735b2f9/31/l?primer=
 font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
 }
 
-@font-face {
-font-family:"mrs-eaves-roman-all-small-ca";
-src:url("https://use.typekit.net/af/db5877/00000000000000007735b2fa/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/db5877/00000000000000007735b2fa/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/db5877/00000000000000007735b2fa/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
-}
-
-@font-face {
-font-family:"mrs-eaves-roman-lining";
-src:url("https://use.typekit.net/af/82aa84/00000000000000007735b2fb/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/82aa84/00000000000000007735b2fb/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/82aa84/00000000000000007735b2fb/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
-}
-
-@font-face {
-font-family:"mrs-eaves-roman-all-petite-c";
-src:url("https://use.typekit.net/af/12479b/00000000000000007735b2fc/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/12479b/00000000000000007735b2fc/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/12479b/00000000000000007735b2fc/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
-}
-
-@font-face {
-font-family:"mrs-eaves-roman-petite-caps";
-src:url("https://use.typekit.net/af/ac45e2/00000000000000007735b2fe/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/ac45e2/00000000000000007735b2fe/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/ac45e2/00000000000000007735b2fe/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
-}
-
-.tk-mrs-eaves { font-family: "mrs-eaves",serif; }
 .tk-alda { font-family: "alda",serif; }
 .tk-mrs-eaves-roman-small-caps { font-family: "mrs-eaves-roman-small-caps",serif; }
-.tk-mrs-eaves-roman-all-small-ca { font-family: "mrs-eaves-roman-all-small-ca",serif; }
-.tk-mrs-eaves-roman-lining { font-family: "mrs-eaves-roman-lining",serif; }
-.tk-mrs-eaves-roman-all-petite-c { font-family: "mrs-eaves-roman-all-petite-c",serif; }
-.tk-mrs-eaves-roman-petite-caps { font-family: "mrs-eaves-roman-petite-caps",serif; }
