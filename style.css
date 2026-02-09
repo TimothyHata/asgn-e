@@ -44,6 +44,9 @@ h1 {
 p {
 	line-height: 140%;
 }
+a {
+	color: #f7f3ca;
+}
 figure {
 	margin-left: 0px;
 	margin-right: 0px;
